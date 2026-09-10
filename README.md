@@ -24,3 +24,9 @@ npm start
 Luego abre `http://localhost:3000`.
 
 Los registros se guardan en `data/contapro.json`. Para uso público real, despliega el servidor en un hosting Node.js con almacenamiento persistente.
+
+
+## Acceso inicial
+Correo: admin@contapro.com
+Contraseña: ContaPro2026!
+Este usuario es SuperAdmin. Puedes crear otros usuarios desde el panel.
